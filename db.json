@@ -1,0 +1,139 @@
+{
+  "drinks": [
+    {
+      "id": "martini",
+      "name": "Martini",
+      "description": "An ice-cold, refreshing classic.",
+      "recipe": "Mix 3 parts vodka & 1 part dry vermouth.",
+      "serve": "Serve very cold, straight up."
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "description": "A nice drink for a late night conversation.",
+      "recipe": "Mix equal parts of gin, Campari, and sweet vermouth.",
+      "serve": "Serve cold, either on the rocks or straight up."
+    },
+    {
+      "id": "gin-and-tonic",
+      "name": "Gin and Tonic",
+      "description": "Like regular tonic, but with gin.",
+      "recipe": "Mix 2 parts gin & 1 part tonic water.",
+      "serve": "Serve in a tall glass over ice, garnished with a lime wedge."
+    },
+    {
+      "id": "rye-whiskey",
+      "name": "Rye Whiskey",
+      "description": "It takes like whiskey, obviously.",
+      "recipe": "No recipe. Just pour from the bottle. ",
+      "serve": "Serve in a short glass. Large ice block optional."
+    },
+    {
+      "id": "diet-coke",
+      "name": "Diet Coke",
+      "description": "Crisp!",
+      "recipe": "Open can.",
+      "serve": "Immediately."
+    },
+    {
+      "id": "hot-tea",
+      "name": "Hot Tea",
+      "description": "Warm Beverage ",
+      "recipe": "Soak tea leaves in hot water until desired strength",
+      "serve": "Serve tea in kettle with a matching teacup"
+    },
+    {
+      "id": "pink-lemonade",
+      "name": "Pink Lemonade",
+      "description": "It is pink",
+      "recipe": "Squeeze pink lemonades",
+      "serve": "Serve in tall glass with ice and a long silly straw"
+    },
+    {
+      "id": "water",
+      "name": "Water",
+      "description": "H2O",
+      "recipe": "Turn on the sink",
+      "serve": "Serve room temperature in any glass."
+    },
+    {
+      "id": "margarita",
+      "name": "Margarita",
+      "description": "A fruity frozen alcoholic beverage",
+      "recipe": "Blend tequila, margarita mix, and ice!",
+      "serve": "Pour in a glass rimmed with salt. "
+    },
+    {
+      "id": "sparkling-water",
+      "name": "Sparkling Water",
+      "description": "Like water but sparkly",
+      "recipe": "Buy an overpriced bottle",
+      "serve": "Unscrew the lid and drink!"
+    },
+    {
+      "id": "fake-drink",
+      "name": "Fake Drink",
+      "description": "adjlkf",
+      "recipe": "fdhaklsfhdsa",
+      "serve": "dafjkdsaf"
+    }
+  ],
+  "snacks": [
+    {
+      "id": "nachos",
+      "name": "Nachos",
+      "description": "An American classic!",
+      "recipe": "Cover expensive, organic tortilla chips with Cheez Whiz.",
+      "serve": "Serve in a hand-thrown ceramic bowl, garnished with canned black olives"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "description": "Sure to impress your vegan friends!",
+      "recipe": "Purchase one container of hummus.",
+      "serve": "Place unceremoniously on the table, along with pita bread."
+    },
+    {
+      "id": "arugula-and-walnut-salad",
+      "name": "Arugula and Walnut Salad",
+      "description": "Tart and delicious.",
+      "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
+      "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "id": "fritos",
+      "name": "Fritos",
+      "description": "A salty corn chip",
+      "recipe": "Buy the bag of chips from the store",
+      "serve": "Eat from the bag. "
+    },
+    {
+      "id": "falafel",
+      "name": "Falafel",
+      "description": "Delicious fried balls made of chickpeas and spices.",
+      "recipe": "Buy the bag of premade frozen falafel balls from Trader Joes",
+      "serve": "Serve on pita bread with tahini sauce and israeli salad."
+    },
+    {
+      "id": "fake-snack",
+      "name": "Fake Snack",
+      "description": "fjadklf",
+      "recipe": "ajkdlfj",
+      "serve": "djlakfjd"
+    },
+    {
+      "id": "doritos",
+      "name": "Doritos",
+      "description": "Delicious unhealthy chip that uses Red 40",
+      "recipe": "Buy the bag of chips from the store",
+      "serve": "Eat from the bag. You will need a napkin!"
+    },
+    {
+      "id": "doritoss",
+      "name": "Doritoss",
+      "description": "Delicious unhealthy chip that uses Red 40",
+      "recipe": "Buy the bag of chips from the store",
+      "serve": "Eat from the bag. You will need a napkin!"
+    }
+  ]
+}

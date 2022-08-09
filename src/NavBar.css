@@ -1,0 +1,81 @@
+.navbar {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+  }
+
+.navbar-brand {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.navbar-items {
+  display: flex;
+  list-style: none;
+  text-align: center;
+  width: 70vw;
+  justify-content: flex-end;
+  margin-right: 0.5rem;
+}
+
+.navbar-item {
+  display: flex;
+  margin-right: 1.5rem;
+  align-items: center;
+  font-size: 1.1rem;
+  padding: 6px 16px;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.navbar-item:hover {
+  background: rgb(0, 212, 212);
+  color: black;
+  cursor: pointer;
+}
+
+.navbar-item a{
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.navbar-item a:hover {
+  background: rgb(0, 212, 212);
+  color: black;
+}
+
+.menu {
+  width: 7rem;
+  position: absolute;
+  list-style: none;
+  text-align: start;
+  top: 65px;
+}
+
+.menu.clicked {
+  display: none;
+}
+
+.menu-item {
+  background: white;
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+}
+
+.menu a {
+  color: black;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  color: rgb(0, 212, 212);
+}
+

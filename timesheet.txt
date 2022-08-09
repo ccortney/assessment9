@@ -1,0 +1,12 @@
+Part 1 (Conceptual Questions): 40 minutes
+
+Part 2 (Unroll): 80 minutes
+
+Part 3 (Snack or Booze): 
+    1.5 hours getting the application working with react v6 (super annoying!)
+    2 hours getting the dropdown menu to work. Reactstrap was not useful! Had to make it from scratch
+    45 minutes revamping FoodMenu & FoodItem to be used for snacks and drinks
+    2 hours creating a new suggestion form that posted to the api. 
+    30 minutes creating a 404 Not Found page and redirects for invalid url parameters
+    2+ hours (unsuccessfully) trying to figure out how to test the database and api calls when
+        the server is not running. 

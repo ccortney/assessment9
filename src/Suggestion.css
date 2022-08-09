@@ -1,0 +1,54 @@
+.SuggestionForm {
+    background-color: #101010d1;
+    display: block;
+    text-align: center;
+}
+
+.SuggestionForm h3 {
+    padding: 0 40px 0px 40px;
+    font-size: 30px
+}
+
+.SuggestionForm-form {
+    padding: 10px;
+}
+
+.SuggestionForm label {
+    margin-left: 10px;
+    margin-right: 2px;
+}
+
+.SuggestionForm-name {
+    width: 300px;
+}
+
+.SuggestionForm-description {
+    width: 500px;
+}
+
+.SuggestionForm-recipe {
+    width: 500px;
+}
+
+.SuggestionForm-serve {
+    width: 500px;
+}
+
+.SuggstionForm-row1 {
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 20px;
+    background: rgb(0, 212, 212);
+    color: black;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    padding: 8px;
+    text-decoration: none;
+    border: black
+}
+
+button:hover {
+    cursor: pointer;
+}
