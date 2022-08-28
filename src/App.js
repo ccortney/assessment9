@@ -60,7 +60,6 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter>
         <NavBar />
         <main>
           <Routes>
@@ -73,7 +72,6 @@ function App() {
             <Route path="*" element={<NotFound/>}/>
           </Routes>
         </main>
-      </BrowserRouter>
     </div>
   );
 }
